@@ -1,12 +1,23 @@
-<<<<<<< HEAD
 # Portfolio
-=======
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## <a name="tech-stack">⚙️ Tech Stack</a>
 
-Currently, two official plugins are available:
+- React.js
+- Three.js
+- React Three Fiber
+- React Three Drei
+- Email JS
+- Vite
+- Tailwind CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> 7a114eb (first commit)
+## <a name="install">⬇️ Installation</a>
+
+To get started, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/s7sidofficial/Portfolio.git`
+2. Navigate to the project folder: `cd My Portfolio`
+3. Install dependencies: `npm install`
+4. Run the server: `npm run dev`
+5. Open your browser and visit http://127.0.0.1:5173/
+
+
